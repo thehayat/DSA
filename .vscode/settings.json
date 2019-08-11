@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "C:\\Users\\Sarwar\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.showRunCommandInEditorContextMenu": true,
+    "code-runner.showExecutionMessage": true,
+    "code-runner.showRunCommandInExplorerContextMenu": true,
+    "python.jediEnabled": false,
+    "code-runner.executorMap": {
+        "python": "py -3",
+    }
+}
